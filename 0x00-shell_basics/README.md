@@ -1,1 +1,2 @@
-describing what each script is doing
+print the path of the working directory
+
